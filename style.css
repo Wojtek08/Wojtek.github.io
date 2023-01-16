@@ -235,12 +235,12 @@ main {
         width: 100%;
         border-spacing: 10px;;
     }
-    .main-div {
+    .pair .main-div {
         display: table-cell;
         vertical-align: middle;
         width: 60%;
     }
-    .contact-container {
+    .pair .contact-container {
         display: table-cell;
         width: 40%;
     }
